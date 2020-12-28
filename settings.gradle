@@ -1,0 +1,3 @@
+include ':libaums'
+include ':app'
+rootProject.name = "USBReadWriteDemo"
